@@ -7,7 +7,7 @@ The dataset mtcars has been obtained from the R datasets package in R, Source:
 Henderson and Velleman (1981), Building multiple regression models interactively. Biometrics, 37, 391 to 411.
 
 
-Source code is available on the [GitHub](https://github.com/amphibie/DevDatProduct).
+Source code is available on the [GitHub](https://github.com/pectoraux/Course-Project--Shiny-Application-and-Reproducible-Pitch/tree/master).
 
 
 The shinyapp builds a x-y diagramm. 
