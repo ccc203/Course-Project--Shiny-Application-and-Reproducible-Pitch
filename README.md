@@ -1,6 +1,6 @@
-Developing Data Products
+#Developing Data Products
 
-Course Project: Shiny Application and Reproducible Pitch
+##Course Project: Shiny Application and Reproducible Pitch
 
 This repo was created to exhibit examinable work created for the Developing Data Products Class of Coursera's Data Science Specialization.
 
