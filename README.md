@@ -12,4 +12,4 @@ The second part of the assignment was to create a Reproducible Pitch Presentatio
 
  * The application has been deployed [here](https://ccc203.shinyapps.io/CarBreakingDistancePredictor/).
  * The files for the slidify presentation are in the slidify folder and the presentation itself is hosted on GitHub pages [here](https://github.com/ccc203/Course-Project--Shiny-Application-and-Reproducible-Pitch)
- * The Rstudio presention RPub link has been pulbished [here]((http://rpubs.com/ccc203/203785).)
+ * The Rstudio presention RPub link has been pulbished [here]((http://rpubs.com/ccc203/203785)
