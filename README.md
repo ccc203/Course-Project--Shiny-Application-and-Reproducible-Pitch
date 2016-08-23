@@ -8,7 +8,7 @@ The objective of the assignment was to use the skills learnt in the class to cre
 
 The second part of the assignment was to create a Reproducible Pitch Presentation for the app. This was to be a html5 slide deck using either Slidify or Rstudio Presenter. 
 
-##By using cars dataset in R library, I have developed a simple linear regression model to predict the stopping distance of a car with given speed data in the dataset in 1920s.
+By using cars dataset in R library, I have developed a simple linear regression model to predict the stopping distance of a car with given speed data in the dataset in 1920s.
 
  * The application has been deployed [here](https://ccc203.shinyapps.io/CarBreakingDistancePredictor/).
  * The files for the slidify presentation are in the slidify folder and the presentation itself is hosted on GitHub pages [here](https://github.com/ccc203/Course-Project--Shiny-Application-and-Reproducible-Pitch)
